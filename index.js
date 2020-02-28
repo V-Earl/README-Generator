@@ -108,8 +108,11 @@ ${answers.test}
 ## Credits
 
 ![](${response.data.avatar_url}&size=100)
+
 ${response.data.name}
+
 Email: ${response.data.email}
+
 [GitHub Profile](${response.data.html_url})
 
 ## Questions

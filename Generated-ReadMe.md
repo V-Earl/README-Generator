@@ -43,8 +43,11 @@ node index.js
 ## Credits
 
 ![](https://avatars3.githubusercontent.com/u/57978129?v=4&size=100)
+
 Valerie E.
+
 Email: v.earl17@gmail.com
+
 [GitHub Profile](https://github.com/V-Earl)
 
 ## Questions
