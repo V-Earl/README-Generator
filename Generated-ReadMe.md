@@ -3,11 +3,11 @@
 ![](https://img.shields.io/badge/javascript%20-blue.svg)
 ![](https://img.shields.io/badge/npm%20-red.svg)
 
-# ReadMe Generator
+# Readme Generator
 
 ## Description
 
-Project being used to create readme
+This is being used to generate a README file.
 
 ## Table of Contents
 
@@ -26,11 +26,11 @@ npm install
 
 ## Usage
 
-Generating readme files 
+generating README files
 
 ## License
 
-Not sure
+None
 
 ## Contributing
 
