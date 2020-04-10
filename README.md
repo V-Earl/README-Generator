@@ -26,7 +26,7 @@ Run npm install and type node index.js to get started.
 
 ## Usage
 
-Please answer all questions being prompted and press enter at the conclusion to generate the REEADME file.
+Please answer all questions being prompted and press enter at the conclusion to generate the README file.
 
 ## Credits
 
